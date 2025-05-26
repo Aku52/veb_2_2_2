@@ -89,7 +89,10 @@ li {
 h2, h3 {
     font-family: "Fraunces", serif;
     font-weight: 400;
-    margin: 0;
+}
+h5{
+    font-weight: 400;
+    margin-bottom:200px;
 }
 .features-title {
     font-size: 25px;
@@ -143,6 +146,7 @@ h2, h3 {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    top: 200px;
 }
 .care-block-img {
     display: flex;
@@ -376,8 +380,6 @@ h2, h3 {
     color: #235fdfc4;
 }
 
-
-
  .AAA2{
     display: grid;
     grid-template-columns: repeat(4, auto);
@@ -437,6 +439,7 @@ h2, h3 {
 }
 .ffffss{
     line-height: 0.19;
+    color: #235fdfc4 ;
 }
 .input{
     color: #212529;
